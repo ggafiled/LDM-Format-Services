@@ -1,0 +1,786 @@
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+LOG:Directory is has file.
+LOG:Going to load file for clearning.
+LOG:File is processing...
+
+DATA:3S530/10.DAALB.LEJ-BKK
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\NEW EmailNotificationLdm_LDM 3S53010.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\NEW EmailNotificationLdm_LDM 3S53010.txt
+DATA:8K524/10.HSKMB.BKK-HAN
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\NEW EmailNotificationLdm_LDM 8K52410.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\NEW EmailNotificationLdm_LDM 8K52410.txt
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+LOG:Directory is has file.
+LOG:Going to load file for clearning.
+LOG:File is processing...
+
+DATA:ddd.ddd.ddd
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\1407.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\1407.txt
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+LOG:---------- Start Process ----------
+LOG:---------- Start Process ----------
+LOG:---------- Start Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+LOG:Directory is has file.
+LOG:Going to load file for clearning.
+LOG:File is processing...
+
+DATA:3S530/10.DAALB.LEJ-BKK
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 3S53010.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 3S53010.txt
+DATA:8K524/10.HSKMB.BKK-HAN
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 8K52410.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 8K52410.txt
+DATA:8K801/10.HSKMC.SIN-BKK
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 8K80110.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 8K80110.txt
+DATA:8K802/10.HSKMC.BKK-PNH
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 8K80210.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 8K80210.txt
+DATA:8K803/10.HSKMA.PNH-BKK
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 8K80310.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 8K80310.txt
+DATA:8K804/10.HSKMA.BKK-SIN
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM 8K80410.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM 8K80410.txt
+DATA:LD831/10.BLDA.HKG-BKK
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM LD83110.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM LD83110.txt
+DATA:LD842/10.BLDG.BKK-HKG
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+INFO: Data is writed to database already.
+LOG:Cleaning and Backup is finished.
+\\23.168.85.155\ftp_data\INPUT_DIRECTORY\EmailNotificationLdm_LDM LD84210.txt,C:\Users\hubtraining\Desktop\LDM_FORMAT\LDM_BACKUP\EmailNotificationLdm_LDM LD84210.txt
+WAR:File isn't format that want.
+WAR:File isn't format that want.
+WAR:File isn't format that want.
+WAR:File isn't format that want.
+WAR:File isn't format that want.
+WAR:File isn't format that want.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------
+LOG:---------- Start Process ----------
+INFO:Directory is hasn't file.
+LOG:---------- End Process ----------

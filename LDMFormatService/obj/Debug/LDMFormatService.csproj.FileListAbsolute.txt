@@ -1,0 +1,8 @@
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\bin\Debug\LDMFormatService.exe.config
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\bin\Debug\LDMFormatService.exe
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\bin\Debug\LDMFormatService.pdb
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\obj\Debug\LDMFormatService.csprojAssemblyReference.cache
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\obj\Debug\LDMFormatService.ProjectInstaller.resources
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\obj\Debug\LDMFormatService.csproj.GenerateResource.cache
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\obj\Debug\LDMFormatService.exe
+C:\Users\hubtraining\source\repos\LDMFormatService\LDMFormatService\obj\Debug\LDMFormatService.pdb
